@@ -1,0 +1,14 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+TextField:focus {
+	-fx-border-color: skyblue;
+	-fx-background-color: orange;
+}
+Button:hover {
+	-fx-border-color: skyblue;
+	-fx-background-color: yellow;
+}
+Button:pressed {
+	-fx-border-color: skyblue;
+	-fx-background-color: blue;
+}
